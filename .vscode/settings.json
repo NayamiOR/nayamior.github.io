@@ -1,0 +1,6 @@
+{
+    "foam.completion.label": "title",
+    "foam.completion.useAlias": "whenPathDiffersFromTitle",
+    "foam.dateSnippets.afterCompletion": "navigateToNote",
+    "foam.edit.linkReferenceDefinitions": "withoutExtensions"
+}
