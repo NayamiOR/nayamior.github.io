@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "e7ed6087f6201969",
+    "type": "split",
+    "children": [
+      {
+        "id": "6500d9f08218c0d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c4d76728a928245",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/content/posts/lepg-benchmark-tlv.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lepg-benchmark-tlv"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38665c25baa5bede",
+    "type": "split",
+    "children": [
+      {
+        "id": "d30677cebf5adc8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd90aa18e4c552a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "42a8d4294ac8dc97",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "587fb5d4d4478753",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "421f231d07923f0c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "src/content/posts/lepg-benchmark-tlv.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "lepg-benchmark-tlv 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "39c607ca52ee3995",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ce08c658b2d75ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c71e3a4f9556cced",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "src/content/posts/lepg-benchmark-tlv.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "lepg-benchmark-tlv 的反向链接列表"
+            }
+          },
+          {
+            "id": "73d3200ecfbc38c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "b862e9718266e20a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "986f9a6b1ad4d80f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "60cdc259e6043dbf",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "267de610efcdfaa1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 474.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "realclaudian:Open Claudian": false
+    }
+  },
+  "active": "9c4d76728a928245",
+  "lastOpenFiles": [
+    "src/content/posts/vscode-chinese-line-wrap.md",
+    "src/content/posts/lepg-benchmark-tlv.md",
+    "src/content/posts/how-to-add-latex-equations-in-blog-posts.md",
+    "src/content/posts/building-lepg-iot-edge-gateway.md",
+    "src/content/pages/about.md"
+  ]
+}
